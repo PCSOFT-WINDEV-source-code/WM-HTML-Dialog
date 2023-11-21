@@ -1,0 +1,198 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_JavascriptCall
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_JavascriptCall
+ identifier : 0x2a5dbad705d18cdf
+ internal_properties : CAAAAAgAAAATAhAIKjyydMorUkEGNpHaWuofrRzX8sWbXL1yqfNYqTvRwr7M8v+JeuDuOY5xqADexoRXEtRcsLxH07oFA276dBYfWxKSC7iiHOEIORN0U1E9X7RA/nQbfym87cjeU4vBf+5rdRGHvid6XueCACNkJXKImBKQkRAsjh0192aqJOOJVqVf7iNJhTIMyS6F3shide4L/U5UvKGcq5S6MASpCGKHudI/spTn5OQh1hjV9kOF1Ija2KCVR0wPs/eoRcvlz4NJM7ulbAZfEuLutW+EdwzEmpBA3qM0BxUzS/GLGteQnIuD7oclXcmItOtVqP4tv2dG/Mf7LQx4iBdF1H598iIbXdqKgNyMJ0vfkDH6b9ZBLKDKkMRz9MKsG7ni63Dd1QZrKHquur3+v8jJqdw0+KL57A34GTfg4A/NSemI3r/BpGIbXPu5WAtqgIWbBxPDbTjuR6VsXArd6qB9nbCfS4tJG6wffBgYBb4AzMbc4s4pFJDTckMrGHM0GuavQBGOxlCncp63taUJsPoB7FLif7eobEvmKCO674ZmWiuQIy6pwfUtznKcugQQ3peEe65CelVqWWB4nHTUL2Yszc8dgMMfhh4TTUueyShXI1xctvEorirV5/g9HTD3hmMYQ3+9dSGzXHk78s+PasdRqPq4kZgExmUMK3gV+JSU/BWVlm9xAYON5xqmjI4RoYUmwxx/E0TFbF/0LrR6lWSPXhbXDeyrnAvmj9mJMfL+A2XdbxpLzXTMBKbWiE2/oeLbRymP62MnvT6BK8qYze3lMm7s2IlJW7aP748ZUYTWfJmzjrW1bnVmp9N58E/K7NgUvkXMjFsx1ZOsVY8uJuAfVNtaeGkX9+r1
+ properties :
+  width : 320
+  height : 408
+  heightMin : 481
+ controls :
+  -
+    name : STC_This_is_an_HTML_control
+    identifier : 0x2a5dbad705d28cdf
+    internal_properties : CAAAAAgAAAD6fDh7JsnsueZfv09wghFv7YYgLCRM8cfdN+FnRJ0yq0JRVYAJ0bzNzr9ergZbSlEgviqgNjw8M3ME7Y/VP4oOYXO/k0HfX+V53YkXdK24NltDBVKfsQoTG/65PE0x4Ywg1LRZCrwO2gxtHxMIGR4x0Vj0RXeAAdPvD9leq2TsINrLcvaJTS0p+JwccYbXJEI90qchNpf2S8lP4JXsmD1l0BtbHIlhlvkH0ts0vGKNGvANNOgcBZY7vBkBvVgp/C/olzaKF0CVYzaNaaJ6zf7/SVtahglV+9UGlBrsURthooUzZowocfcoGI2tQ1yU+ssOzgbnow4vyU8toNfosBZQC3BjSjyRffZSmIBw6ePz/f2Sw0xQroiQe7Q3zFq0oBOq4la5YBQuKEqrXn4+ruZtxW2Diq5UFIKOmR0jbJCgRr770VezqGu1MYn7SVPB8bs0GtbszpWbQF226dvc7mLUe7ogYJU6TTOHsdCqltpexly3V7z0HDulfEZmCsLwS4hInJJyne8ZSkDI9n5LrgQ6mkmlFsQcJyto1OwVnSWhEATNLNAu+jFClp1M9FHY8BPOZVgEynViHf6p0cws5qCp9cXrzUlhc9RnR++5SPDeaelp
+    properties :
+     x : 16
+     y : 13
+     width : 288
+     height : 100
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_GetValue
+    identifier : 0x2a5dbad705d38cdf
+    internal_properties : CAAAAAgAAACkxGO/Ai0VlaIH6oHz/8KhnARLMer79965j5SDCyDako5/bRHHt4LB2Uv4y5J+Rb+yYOHdISF/hwbPtvVnyb2KW0glCDCd1J4Mb+LAJMZYUfvIgMxKaDUs86z6DnIVtv3fBfm+2z29xjVCqpXzznl3ai/z6xkNqdR+oSq632DCeknVjBH+62FGqAnEeVzpI85PSv9lWTLvCHHMj3fDwNpf5tQXAErosMcdtAwlUMK6+EZINA0arK7mj10ilwIUxiJCVS0oDpvdNOc72m6lGxkb+Ke2qrczhychjsKawSPuRtbPxKxU6EhRer0qaQbBuFjGMPQXz9kTqAxbXGfyfmPo6DqqzMtko3xZE3EmpgwwTRPULheqDom4SviCMRXw+u64cTfAc2TtQKRuYJBhdFnIS0YPorljOSQ/ubTIFBQNBGoOIFZWwUY1cBMVJa3uxKtyzIeDrjKgmWoLZJlbcdxgbFmV2v4NYC+QtiykltIMRWnV9zgPmAo9k5J/3oc6BTVnn2imBshzXs4UPjQmHYjlW9kugXHJTYiR+zk3IxZKjndSg1fvtErTE3dMeK4e+Gv+SpJ2/4HFKw0Ujl6WmqnmbW97V6KWsrIzUC6sgqFnOLwDIXuZveWUkVz4aJ4jU92x2Ptex5Z29hLANv4k7dXFb4/2/6mAWApI8HiSFugAS53OIkibeRvwP4+1H74lCxUx3o6OpJ68h7c4pLC0Jx0mz0tk7rq8+B+9TD+W+vntTOj3N4eJnCbYgDqavz9RqWD75dvhu3mY+um2vF+RUd6IAWN0wZFNPWo5XBwcs8HfWKKNIYyk1YklGqZA5MEhII9HzXWYqT2zSA4C9mpCLwj+L5V7Bt1sV0n133OvTadnsVk/hJAWzCsPm93vJIoDgzgUHq+VzLltbBZbN/tMmJX+n2SIe1MhttYFqPD30SK0jCKAp2bGJVPkGjZC1nMTDlRkjX2YY5IyBjd1Q/7sndSfUZU=
+    properties :
+     x : 16
+     y : 116
+     width : 288
+     height : 52
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Changes the theme
+         ChangeThemeHTMLControl()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : HTM_Simple
+    identifier : 0x2a5dbad705d48cdf
+    internal_properties : CAAAAAgAAADE9jARByBFUIBHPlWBaqEr/HMIf8h3y6RBotLQWBVxLAsOrwxPlWVP+rXeS4icAzfpa1++EqHGlHHAVAWfvLbfcQGwfQTVT6K2O5nANeYTo2CmtALd4VynF4/7BPGo5K6BxgbADc3vcFBRbXHyudwjZiga6+8WT/6zx8xrk2ImwrfojJBe4//nCGW6ujPdQcsv4hhbrdCpde5/zBqQiiMg9Y+CLYpL0chr6x5vPfQ84OTyTQC4RLgRiTMtKqwwFw//g1PYSppM9alI8n9rgOyKdN1NpQZQYQIKMC7o9NwB7aEJ9PCb2IEyTg3b+WIG7I1eKMEBiZ4JJCKBoLLfwLvDsJIIWm8JvVi7W7ACVwJiA+QFdYEsqPygeq+EzkBuLuZo0Ri3SXfZQSHGi3JfzoVyX5ci3uEt9RNTP7nB2VJcmPeH7aaRFiCi+cjNKDKAkNeMXZj4/10anqPwtaW+P/KaQHziAmOus5GvfNZPxkFmxIdQdmJ5lchWgt6L1tIzgj4Zaw/mt9W1CHG1wOcKhcD6Zu2hA8mEom3Em0nKS5En5j8uyYv/v/iUiwToZZPykH/WfFyzvW79HhRdTYXI7M2/GY3IjqLIh0tp6R9IahWHtrjon/VkX9RRDiAip5CBnJDpBpA6t4ni3OL7eQS3T60shiG0lvMfzgncbAv5oVRfe5MaI4NSV8ItzI8NctVUeMDgcoxbI57MWEYzrIgfs4Kx+LQC/HEwDisziF2NRJqvMao/w6dVVNIyVYyL4z1XSiC6XoHwdkeJw4Yw6rwW9nDNX1tJBC1JU+JfBVteXlvYGTvW6sUcEvnUutFxkQ+p6a7EfjiqEHOlVgSCi4uVQN6nUg8Mx+d2ofTupDXloJZckeECZlJ3DEgZzc9OOrLkdlplKDXbyax/k6IeYnsAzev07QwzEP5VRo6Iy7O/cC+/LmdB0RXicTfR2jUjmLiFD6TKdtj7w3Z92C60KU9fAsQtkKG2G4ez6fzuEPFuxLRdcr2/YwMbRVyzc4qoeWWFMWdTOq0tri18Oyuo5b2M798yNAxolw5osLaho8n8t7MSCLiYOuOLkPLmeu+kjzYu7VB18SrD3zcevCjBkNYG2F0ISrZqPbbuZ5VjaxZpqenCckJVLKPOvKf3sUNt/TV56KDeFZUm6YTghTggVm28pUotN7xxiVoTe0j5UPb8JbQCwW6XIA8RoX6YIlOOvZ7w8Z7v7S099w4m87wR1MSddxqi/VU27+1aS1y+Tcd83cK3RCCENyX3q8WdANWj4ZuYVh7BfrJm4u3VnCfyCptkIq4zOGiuYPfvpxs/0F3F8jizgAvZb7tdQDCNGd74yBJQyFaOvJE4+lnXNt7/SyxZSZFW2b6kJIbSxT9iBn36RaayY0hAVDuxLGhtOgib0t6LNdv9dbMM80boXYxoC0rFwVulYWyGPxJoxFIuiTRoWaSBjp7cGznwYF6NSQ2uIpQVA/xLQDUrTAT8ufzIeaiCtOcB+bkccg33zrj+27I1rYV6soANu1wMpjx/5M2psWSnKhCFK893b90fE4ChGWI2X9hrnMsAWAU9fu2qW4Qoy5nJpgj1OMH+c2UZyYsiZ/8ekartq7vXdXVwKSEvxNuD/uNhW1o49VJ3aYbrcJPXYZIlcpD3PsMzptXATYbnUtmqJMnIjm6pfk4UaYxyT6XXbzNPauTbXtN/3An9CMoSYit6wxdsQ1Ti
+    properties :
+     y : 187
+     width : 320
+     height : 221
+    type : 23
+    code_elements :
+     type_code : 36
+     p_codes :
+      -
+        type : 290
+        enabled : false
+      -
+        type : 289
+        enabled : false
+      -
+        type : 291
+        enabled : false
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x2a5dbad705d58cdf
+  internal_properties : CAAAAAgAAAAUqTPW6mLzFHwnBV1RvXzZa+6043ic7T/L7kFbS92KauCWPAFRj3ztupar172CutQVFNhoX5EkOS1x5qoOZrDBxg5a7yDblYhyr+AcNdZCh5PhGt2RH5hg/AWTq6u70csBmmUVOh1IV9G0SYGsu72keay0ZNxpmmBPsiYsigzCxPkoFNd8T+bXrptUaihqLuzQNN/2n8eOeXChDBtjd5brJy5DRcK+M+Gwh5jervsoyLVlJV+Mqwm2tnzQ2AOZyCza/+9RgjoVkmVnw24oTGtaNxbzfwWpIES2G6b/c/Ha/KsdIHA5aS3gQ3PAXwlzAma0gKfb37zbTs1+Rqd1cK530mQG7PN367g2XeFs48ZxP+7H9AvNx0QaR4aNLefaO/g=
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : CAAAAAgAAADgMVTORwj2Mt8z/R5WRL0mTVIMDO11ij5YdBwcO3ZAw8tWdEBL95DgWGGgMGBRKql5dANp5Vg/qpNyJvJQ8sIrr6GzC+masJIwyV5P7DpW0go2kGsf4EvdW1eqlu6V7I5EHVrMjd02cTaXwP0dbd1DSbdsd/Wxk0ScMGI7Z0eDsGOMLRfieoTYskOjcLtA7tgFoR24z+3d3zH3Bloaoqj6XKllvOzqHQUKs5ikiJtsiZpXF9leDIYykRzjnC4k4qQVjthAFpugw+diG+HfnEMv+L/rU3DRjlIiDq+0aeUP
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  internal_properties : CAAAAAgAAABglxM3LtEgrfretUTQkJkeia6DmhYdk7iD/1NlANJcZF/aRUBncdSGq6sfU84YnJlVzscRRSHxws6MKhOV5t6FVi9GlyA2H9Q420ISKL6m7eX+YgRaZzws9pNargwPudCABzHIMLtG8I09dQeODg0Vij1UbvCrWlE/Zi352JihfTRUQDDP9A==
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      Procédure MyWindow()
+      
+      gbThemeDark is boolean = False
+   -
+     code : |1-
+      
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+  procedures :
+   -
+     name : ChangeThemeHTMLControl
+     internal_properties : CAAAAAgAAAAT1HdZhdx6WJWPFhjag/qP/A8wghj6ZKjUBldhhGlqHHypsW4IXaFUv/GggDxQkTJWgJKwzxMCmT01xj/n0eddUA9aP7nG/Ve1f0L+sw4tp9Kx/bgJxnBQRZqeG1q78IpJSzu7b2rbQ+B36IhN12Mxm777tFc6RBa4wcJlooCxfSHHVO8TSfiv9kgVPpoi1eo9DSexz2XEQ+/TkDxlGJTxBlNn+O1lpX/4MFfusLqbmIt7ikD0
+     procedure_id : 1899880050404527327
+     type_code : 14
+     code : |1-
+      // Summary: Changes the theme of HTML control
+      //
+      Procédure ChangeThemeHTMLControl()
+      
+      gbThemeDark = not gbThemeDark
+      
+      sJavascript is string 
+      sJavascript= [
+      	(function() { 
+      	document.body.style.color = "%1";
+      	document.body.style.backgroundColor = "%2";
+      	})(); 
+      ]
+      
+      sBackgroundColor is string = "#FFFFFF"
+      sTextColor is string = "#212121"
+      if  gbThemeDark then
+      	// dark
+      	sBackgroundColor = "#2A292F"
+      	sTextColor = "#FFFFFF"
+      	
+      end
+      sJavascript = StringBuild(sJavascript,sTextColor,sBackgroundColor)
+      
+      
+      //////////////////////////////////
+      // Run the Javascript code
+      HTM_Simple.ExécuteJS(sJavascript)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAC3t6X8V+XtzEvYyG/AjZbipoLd8OcBjRIp2VQmvnaBKq/WbIN8zPb13R3U3gq1egPbhW5JPekc6pqMrFVHPu+uhuF5OjAUPIDamLV4+vvE1VqvSvEFQyVf6ESMs3bO7vqPrvqN
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x1898823800a81042
+  internal_properties : CAAAAAgAAACyYsC6zc/RPqcLG744bMnl2QBaVFvwFfUj7hP5A9EJVeG2FNGVMNfgHs1eZQ==
+  strings :
+   -
+     text :
+      en-GB : "<html>\r\n<head>\r\n<meta name=\"viewport\" content=\"width=device-width, user-scalable=no\">\r\n\t<style>\r\n\t\thtml {\r\n\t\t\theight: 100%;\r\n\t\t}\r\n\t\tbody {\r\n\t\t  margin: 0;\r\n\t\t  padding:0;\r\n\t\t  height: 100%;\r\n\t\t}\r\n\t\t#scrolling-container {\r\n\t\t  height: 100%;\r\n\t\t  min-height: 100%;\r\n\t\t  overflow-y: auto;\r\n\r\n\t\t}\r\n\t\t#editor {\r\n\t\t  height: calc(100% - 64px);\r\n\t\t  font-size:16px;\r\n\t\t}\r\n\t\t.ql-toolbar{\r\n\t\t\theight:64px;\r\n\t\t}\r\n\t</style>\r\n\r\n\t<!-- Main Quill library -->\r\n\t<script src=\"https://cdn.quilljs.com/1.2.0/quill.min.js\"></script>\r\n\t\r\n\t<!-- Theme included stylesheets -->\r\n\t<link href=\"https://cdn.quilljs.com/1.2.0/quill.snow.css\" rel=\"stylesheet\">\r\n\t<link href=\"https://cdn.quilljs.com/1.2.0/quill.bubble.css\" rel=\"stylesheet\">\r\n\t\r\n</head>\r\n<body style=\"height:100%; margin: 0;  padding: 0;\">\r\n\r\n<!-- Container of editor -->\r\n\t\t<div id=\"scrolling-container\">\r\n\t\t<div id=\"editor\" >\r\n\t</div>\r\n\t</div\r\n\t\r\n\t<!-- Initializes the editor-->\r\n\t<script>\r\n\t\tvar toolbarOptions = [\r\n\t\t\t[{ 'header': [1, 2, 3, false] }],\r\n\t\t\t['bold', 'italic', 'underline', 'strike'],   \r\n\t\t\t[{ 'color': [] }, { 'background': [] }],  \r\n\t\t\t['code-block'],\r\n\t\t\t[{ 'list': 'ordered'}, { 'list': 'bullet' }],\r\n\t\t\t[{ 'indent': '-1'}, { 'indent': '+1' }],       \r\n\t\t\t[{ 'align': [] }],                              \r\n\t\t];\r\n\t\r\n\t\tvar quill = new Quill('#editor', {\r\n\t\t\t modules: {\r\n\t\t\t\ttoolbar: toolbarOptions\r\n\t\t\t},\r\n\t\t\ttheme: 'snow',\r\n\t\t\tplaceholder: 'Type your message...',\r\n\t\t\tscrollingContainer: '#scrolling-container'\r\n\t\t});\r\n\t</script>\r\n\r\n</body>\r\n</html>"
+     index : 0
+   -
+     text :
+      en-GB : "<p class=\"ql-align-justify\">\r\n<strong>Lorem ipsum</strong> dolor sit amet, consectetur adipiscing elit. <span style=\"background-color: rgb(255, 255, 0);\">Pellentesque vel placerat turpis.</span> </p><p class=\"ql-align-justify\"><br></p><ol><li class=\"ql-align-justify\">Aenean sagittis augue non magna tempus, a posuere nisi lobortis. </li><li class=\"ql-align-justify\">Cras eget orci eget risus elementum <span style=\"color: rgb(230, 0, 0);\">aliquet</span>. Praesent dictum libero cursus ornare suscipit. Integer eget felis pellentesque lacus semper condimentum. Vestibulum malesuada consequat mollis. Morbi ut tincidunt augue, sed venenatis libero. Aliquam fermentum, enim eget pharetra interdum, massa arcu molestie erat, at lacinia lectus felis quis tortor.</li></ol><p class=\"ql-align-justify\"><br></p><pre spellcheck=\"false\" class=\"ql-align-justify\">Nulla a diam enim. Sed vehicula a orci sed ultrices. Proin lacinia turpis erat, nec varius enim imperdiet nec. Nullam ex magna, pretium sed bibendum non, hendrerit vitae dui. Suspendisse fermentum maximus ipsum, hendrerit consequat nunc lobortis quis. In ut massa semper neque fringilla laoreet. Aliquam purus metus, placerat a vulputate venenatis, volutpat ac ante. Aliquam malesuada ex nec risus gravida, vitae fermentum leo viverra. Sed ultrices hendrerit blandit.\r\n</pre><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"> Sed feugiat condimentum viverra. Maecenas vel lectus vitae nisi mattis viverra. Sed id vulputate mi.</p><p><br></p>"
+     index : 1
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

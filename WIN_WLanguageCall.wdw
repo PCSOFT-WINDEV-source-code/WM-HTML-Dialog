@@ -1,0 +1,145 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_WLanguageCall
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_WLanguageCall
+ identifier : 0x2a5dbad805e29367
+ internal_properties : CAAAAAgAAADH0nPZk+HWPta6m95fDSr6vlSusH/LBa6cp5CWwv/uPcpcUEbnVNWu3NpOEuzjGntXZwowG6Xb9mvFD3q4YvP3nST3Y7haI3XqgSj+e9vf8qqR7guxzMC2VKZjEWcFapwBwNbUsB1jPepjJTyyBFw2z6GZEJQg2ctLUrSJZ9uvjmy6Cl/XxPQd0wD3akS4SH2Rql3mgLG5uQOnwqP5RmSY0gdAyZLUybMw9Sr91IfAryuoknp+XqNmrr8OUhOz8/crjW2OVIi8OhhGGg3omWToKpfODrqGddU55CTpVp4+AnlUqk7SP5a8RwlzpTaaLug11vsumBecVbR3Q317GV1+qxCmlyNTNhdg0RNuD/amqi3eIBH+ECUbV1Ong8iTqGOXNyIFTIJiWQVHjhPxbSg1gucc/9efF/ZCF+26gsP/D7kgj0JaGqmlwLWvKAW9CZQfuPDBsjqCToNUxskVLe9dN0yNs2/APPjVHXllbadalE1Y0W/6enOvCQnlJEzmNFqafsut8hymBuHPvzsRTJRQ0F694p5Zoz1fEvKTOd1nsfqY/WSYPEIh+vnV8LWPMjL4tV7nmuUpsMd2YDck+7SSkDSqvfckBoy6ec3stwxznW7TUzNS7DmNpr5UbR7UXFKHFCQ8hFAWqrpbv6kuQ38VZahKGwNsMYHuX5QNEdJuE8yr6dPvbrvk5TarDeh96fsiPuMmecmIGuUFSUzVW3kHLWzpf6KiB55sz1h9IeRr7Brny3qlkdQNSmtcZP2tU0yzOo48MDKeX3lC6CQzBu6ApCHIuw==
+ properties :
+  width : 320
+  height : 408
+  heightMin : 481
+ controls :
+  -
+    name : STC_The_control_below_is
+    identifier : 0x2a5dbad805e39367
+    internal_properties : CAAAAAgAAADL3Og39Ywt/0qYl15yIaYWFL9WV45ijniSv+hpn8beCcL7dnPxsT+vnyzKXsVo51Oc8nFdk42gsX+o8GWNApm08xeu66S+x/0Pkbz2mFyeQB2zUHZhMt0heDW9eI6yDDlHebp5hhqHTWQfPp+ueozubgwqFLn0TNcpHAC3h/wr8E0ISPYr+E+u/Uqz5WoyUEF3ryhlfsKqCpmPDdkkiy9ABHWSUi4z7gosOfyCxsi4Fgu57E3wuwz8yWd54l3a9XfiMWX5KiDQA3RPirbsiY09KKncgFz/UhUHI7glhZqMYRyCGZbrXUqSqoBH1ZAdsW6b8j+jCyYuG2Xt69ieRZWKiA8AJegyHP5yhrE/PPi7AAGH1I4xhyff/WbtUcbTkKSRRczf6VI5SkYAIoBI5HamJoCtBwMrnkp3dMvL9rxpJSerNObhxrSclVHMMDoGZbQsdMMLbVqBUofV7H3t/2Tbq79jwcz1kiL52Uqq1ATABlPNG8JzjrlFFe8MKCa5cISzZX77Xt+CdeIj66E2e2HfSsMfYflDaY6qIngXzIjzXwG7Wedb/jE5oPqLpTr/2YIb5TO5lCwzJdg5MQ0U5KJtUjhkshQLjCbuMvyKTGO+SOFdyCux1plqmYlDsVIDjZcyg5z5JR+pC+e0Asyaat8XSc+m/OLMhqjn36DeEV/hSLdC0hrkSJS+t/XNuOA+HKEONPQ1Gx7QEkxCy8xwqH3LxIZI9gsxjjiNuoef7IIP4gqcjzBy7H1+CSE=
+    properties :
+     x : 16
+     y : 16
+     width : 288
+     height : 169
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : HTM_Button
+    identifier : 0x2a5dbad805e49367
+    internal_properties : CAAAAAgAAABqYyugsXl4LX5oNMkTYJy9qOOo/2cQu1lgwaHB4KSFmEnWxcFerje/rccdmPHsh08UW3seSkNc0rOnE0txGTKUX8tuHRF4+y52Arh5kFA3Aw+uSGfdycRJ4LjliK9St3zNMpaIw0YZPRkNd9HMkN7KOGf4yc5VRN84Y+t1IWw6eUd3HDgAu0KBIgF+WZkLzsKYAkBKLVC/UpoUt1k95iS/wjzYV2VcdEwGtmK+QtZhD166GXdhRWsOB0hXjrWfGpx163JIAR3koTBeGsMyraVKt5LYZXWGje76/MJuOQ1NrvxB8TW6M9Z0ccZ4OC+sPxNZsIVNfftJhMwDWDc++D1G7/kpxZerBerseApDFwjaxGhZajq57VCWJ1ZmsHiG6+F2lT0DGxqAq5SDQ9Gk5XTo9mS7/HLEpkatJrGZfH6KnoDhLLqf2dwcjkSVxkq4sYbwKjmiJciCPhP3zbpmd75qEPUGimnKYdU2l7YCbETabvChXzKnKOGH86U2p4mxhN/NuETuFkeZbZGYl7pYAtH4TqMpOTpPZB+hODVMjAJOm25npsgSKRItWWD2hOX0waXZParAk+yprvMBKHx2x1PAJbEsdR9JRs/Tqk5/mw1hrxWtESimV3kvVE32a/Z5G7QiR/k7A3wFs9jdVt5bkHey10rCMFhIjpQW7e283+PkILPfF++BnkacZeHFpJkWBHlqJnLztiqS20nZeWl9I0Y0D598vPhTCbCqF5jh7C/cHvC1OBvVntdU4rojAkbKV1VIOpHRaaPaW+1YE4XGIwRYMn6hSO+DoWKwzfyj4+j4XsYABKu6g3GOMm24EyPRXNBJQ4/u6b6X+FQDa4biaG5jP8maMdirS0N1DQAOvnN9OrvcrpOEHgBAmCLYcEha2k4nFf80ZCvWFVi/g2H2mX7TEPWYmuA3WNZDYYKI7ddLquqXxCtiO9aR5oDI7QU8S2/Swlv04xcBXH7qI5nBVRCEwogTKZUx7XZkzz7q9/rhi2kzC+FF
+    properties :
+     x : 16
+     y : 196
+     width : 288
+     height : 165
+    type : 23
+    code_elements :
+     type_code : 36
+     p_codes :
+      -
+        type : 290
+        enabled : false
+      -
+        type : 289
+        enabled : false
+      -
+        type : 291
+        enabled : false
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x2a5dbad805e59367
+  internal_properties : CAAAAAgAAADQVX+SNpY3WNA7KeElCdA9T4KY96woabu3av2n12EG9nwSyJ3NUyChDvp/+6HujripmFz8g91glYldgtZq2hy9kkpm39gDpZASl6iM1a7Cj6vBqnVxb8BgpNVzg7Nb+Xvx0g1lAoX4T7HMkWEMM83cAYxknFx5wqC3cpYEUoxKZPlwXLc0N7bvPoOsunhy7jQE4HN6u5vixeSdqJfvk4q/u6rXyW6SFz2UY1RqOjc83IkxCbMYP/2y+kiMFH/1bAAOqwNFns65LtkTD8pUOA/ua0KnA2HNVBBKZ8KLf+UuUB+JlIwdTQk876+Mi33vjvIgdJPvy4ivohEyihvh5DL7VuCKaHfrZzSy2W2Y1/JNG8obQL8Zsyh++8pBcSOe/zw=
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : CAAAAAgAAADgMVTORwj2Mt8z/R5WRL0mTVIMDO11ij5YdBwcO3ZAw8tWdEBL95DgWGGgMGBRKql5dANp5Vg/qpNyJvJQ8sIrr6GzC+masJIwyV5P7DpW0go2kGsf4EvdW1eqlu6V7I5EHVrMjd02cTaXwP0dbd1DSbdsd/Wxk0ScMGI7Z0eDsGOMLRfieoTYskOjcLtA7tgFoR24z+3d3zH3Bloaoqj6XKllvOzqHQUKs5ikiJtsiZpXF9leDIYykRzjnC4k4qQVjthAFpugw+diG+HfnEMv+L/rU3DRjlIiDq+0aeUP
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  internal_properties : CAAAAAgAAADBFnYPoAOfzUB0SGCsxrrski0OzJnCn+BUnZgw+f+6bQWtqdOcG85MSw7AEJ7OGAyjY3roGRwc13iWPXXg6d0g9lSYXto=
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      Procédure MyWindow()
+   -
+     code : |1-
+      
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+  procedures :
+   -
+     name : HTMLCall
+     internal_properties : CAAAAAgAAABieIEghLqk92j2PMCeinlOIrD5ybkr6Uz1pOO+vFidcXU60TILgTe4jINRnS3KixDFDqZDs3Z1k4XXchk=
+     procedure_id : 1899880054699561831
+     type_code : 14
+     code : |1-
+      // Summary: Function called from the HTML control
+      // The function receives a parameter used to identify the button that was clicked
+      //
+      Procédure public  HTMLCall(sParam is string)
+      
+      // Display a toast
+      ToastDisplay("Click on HTML button: " + sParam)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAB6ragasMBWLfpsSyU19J6lAvYEqFWd1xYOjmHr1XHVZOVmechqLo1vKvfoAJhHeXL59P8BudVQfrBZ/U9vpjDz5RFibMKKm/84EA==
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x189d7cbc009fd538
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
